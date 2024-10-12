@@ -7,7 +7,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 If you think that this map can be improved in anyway, please start an issue or pull request, I’ll be maintaining and updating this repository yearly, the source files can be edited using [Balsamiq Mockups](https://balsamiq.com/download/) 
 
 ---
-![EmbeddedRoadmap](https://i.imgur.com/53X6wf7.png)
+![EmbeddedRoadmap](https://i.imgur.com/OkkPApY.png)
 
 
 ## 💻 General SkillSet
